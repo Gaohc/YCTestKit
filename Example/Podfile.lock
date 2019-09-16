@@ -1,0 +1,16 @@
+PODS:
+  - YCTestKit (0.1.0)
+
+DEPENDENCIES:
+  - YCTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  YCTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YCTestKit: ead84dcf31ce7aa2a3350b820f9959f1b1fcdca2
+
+PODFILE CHECKSUM: 0dc67d94f41653693a39ce87d7aa1120ba7fb70e
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,22 @@
+{
+  "name": "YCTestKit",
+  "version": "0.1.0",
+  "summary": "A short description of YCTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gaohongcheng/YCTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gaohongcheng": "gaohongcheng@58ganji.com"
+  },
+  "source": {
+    "git": "https://github.com/gaohongcheng/YCTestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YCTestKit/Classes/**/*"
+}
